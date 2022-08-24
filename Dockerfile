@@ -6,7 +6,7 @@ WORKDIR /app
 
 ## Step 2:
 # Copy source code to working directory
-COPY . project-ml-microservice-kubernetes/app.py /app/
+COPY . project4-ml-microservice-kubernetes/app.py /app/
 COPY . nlib /app/
 
 ## Step 3:
